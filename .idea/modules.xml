@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Exercícios Recursividade.iml" filepath="$PROJECT_DIR$/.idea/Exercícios Recursividade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fatorial/Fatorial.iml" filepath="$PROJECT_DIR$/Fatorial/Fatorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multiplos-de-3-recursividade/Multiplos-de-3-recursividade.iml" filepath="$PROJECT_DIR$/Multiplos-de-3-recursividade/Multiplos-de-3-recursividade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Soma-Recursiva v1/Soma-Recursiva v1.iml" filepath="$PROJECT_DIR$/Soma-Recursiva v1/Soma-Recursiva v1.iml" />
+    </modules>
+  </component>
+</project>
